@@ -1,0 +1,5 @@
+Aqui esta mi proyecto final de ingenieria de software 2, Utilize Codeigniter un framework para desarrollo web escrito en php, Jquery un framework escrito en javascript y mysql para la base de datos.
+
+Se trata de un call center, la mayoria de las cosas son simuladas, ya que no tenemos acceso a un conmutador telefonico.
+
+Se trata de una pagina web que hace uso de ajax y sigue el patron de diseño MVC.
