@@ -3,3 +3,8 @@ Aqui esta mi proyecto final de ingenieria de software 2, Utilize Codeigniter un 
 Se trata de un call center, la mayoria de las cosas son simuladas, ya que no tenemos acceso a un conmutador telefonico.
 
 Se trata de una pagina web que hace uso de ajax y sigue el patron de diseño MVC.
+
+Copiar los archivos a la carpeta publica en el servidor.
+Importar la base de datos a mysql
+Modificar el archivo /application/config/config.php con la informacion en el servidor (En especial la opcion base_url)
+Modificar el archivo /application/config/database.php con la informacion de el servidor de la base de datos (host, nombre de usuario, password y nombre de la base de datos)
