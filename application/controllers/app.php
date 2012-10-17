@@ -27,7 +27,7 @@
 		/*
 		 * Esta funcion llamara al pedido que corresponde a esta llamada y cliente utilizara la funcion 
 		 * obtenerPedidoPorCleinteId(id_cliente : Integer) del modelo llamado Modelo_pedido y se lo 
-		 * pasa a la vista llamada vistaPedido.php.
+		 * pasa a la vista llamada vistaPedido.php. hola TEAM
 		 * 
 		 */
 		function pedido(){
